@@ -7,10 +7,10 @@
   "commitConvention": "angular",
   "contributors": [
     {
-      "login": "YoshithaRathnayake",
-      "name": "YOSHITHA RATHNAYAKE",
-      "avatar_url": "https://avatars.githubusercontent.com/u/97069900?v=4",
-      "profile": "https://github.com/YoshithaRathnayake",
+      "login": "SkibidiSam",
+      "name": "Skibidi Sam",
+      "avatar_url": "https://github.com/combat845/combat845/blob/8a2d454acca7515ba9a3e6088df53a862709da74/IMG_0400.jpeg",
+      "profile": "https://github.com/combat845",
       "contributions": [
         "infra",
         "test",
@@ -56,5 +56,5 @@
   "repoType": "github",
   "repoHost": "https://github.com",
   "projectName": "CALCULATOR-WEBSITE",
-  "projectOwner": "YoshithaRathnayake"
+  "projectOwner": "SkibidiSam"
 }
